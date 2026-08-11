@@ -1,168 +1,68 @@
 <div align="center">
-  
-# Corner (Kihoon) GitHub
-  
 
-<!-- ## Hi there, 👋 Full Stack Hoon Here -->
-<!-- 
-<img width="832" alt="image" src="https://user-images.githubusercontent.com/68332735/208432291-1f5963a8-c899-4cea-9685-448f655ef7e0.png">
- -->
- 
-  
-  
-## Connect with me
+  <h1>Hi, I'm Corner 👋</h1>
 
-<div>
-  <a href="https://github.com/c-owner" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href = "mailto:corner3499@gmail.com?subject = Feedback&body = Message">
-  <img src=https://img.shields.io/badge/gmail-%23EE4831.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-  </a>
-</div>
-  
+  <p>
+    <strong>Developer · Builder · Curious learner</strong><br />
+    작은 아이디어를 실제로 동작하는 서비스로 만드는 것을 좋아합니다.
+  </p>
+
+  <p>
+    <a href="https://github.com/c-owner">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:corner3499@gmail.com?subject=Hello%20Corner">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://iu-corner.tistory.com">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
+    </a>
+  </p>
+
 </div>
 
-## Projects
-<!-- - <a style="font-size:24px;color: indigo; font-weight: bold" target="_blank" href="https://memory-webapp.vercel.app/">메모리 웹 SNS 사이트</a>
-### [Project Workflow Road Map](https://github.com/users/c-owner/projects/10/views/3?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=58798488)
---- 
--->
+## About me
 
+- 🧩 웹 서비스를 만들고 운영하는 과정을 좋아합니다.
+- 🌱 새로운 기술을 직접 사용하며 배우고 있습니다.
+- ✍️ 개발 기록은 [Tistory](https://iu-corner.tistory.com)에 남깁니다.
 
-<!--  ### [Corner Info](https://corner-dev.com) - My Info Site -->
-  >
-<!--   > [Corner Profile 보러가기](https://corner-dev.com/#about) -->
+## Tech stack
 
-<!--
-  ## 티스토리
+<div align="center">
 
->   👉 저의 개발 관련적인 글을 올리며 운영하고 있습니다! [🌱Corner's Tistory Blog](https://iu-corner.tistory.com)
--->
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,nodejs,express,java,spring,mysql,git,linux" alt="Tech stack" />
 
-<!-- ##### 🏃‍♂️ project progress -->
-<!-- side Project - [캠핑24 App 📱] -->
-<!-- (https://front-campfire-web.vercel.app/) -->
+</div>
 
-<!-- [오늘은, 웹 팀프로젝트](https://github.com/c-owner/oneuleun_web) - Backend, DevOps 담당 -->
+## Featured projects
 
-<!-- #### <img src="https://user-images.githubusercontent.com/68332735/173863464-7c5e0d06-e797-4506-8b9f-77bb7d5a5acb.png" width="30px" height="30px" alt="achievements" style="display: inline-block;" /> achievements done
-[Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/c-owner/youtube-video-player)
- -->
-<!-- [Vue/Nuxt로 HLS 영상처리 작업 개발, 개인 공부전용](https://github.com/c-owner/hls-player) -->
+| Project | Description |
+| --- | --- |
+| [YouTube Video Player](https://github.com/c-owner/youtube-video-player) | Vue/Nuxt 기반 영상 플레이어 |
+| [HLS Player](https://github.com/c-owner/hls-player) | HLS 영상 처리 학습 프로젝트 |
+| [오늘은](https://github.com/c-owner/oneuleun_web) | 팀 프로젝트 · Backend/DevOps |
 
-<!-- [전략적 팀 전투 TFT_web, ](https://front-toche-web.vercel.app/) [#2](http://github.com/c-owner/front_toche_web) -->
+## GitHub activity
 
+<div align="center">
 
-<!-- #### 🏃‍♂️ achievements progress -->
-<!-- ### <a style="font-weight:600; color:#666666;" href="https://c-flashone.web.app/" target="blank">[FlashONE FireHosting]</a> -->
+  <a href="https://github.com/c-owner">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-owner&theme=tokyo-night&hide_border=true&area=true&custom_title=Corner%27s%20Contribution%20Graph" alt="Corner's GitHub contribution graph" />
+  </a>
 
+</div>
 
-<!-- --- -->
+## Friends
 
-<!-- 임시주석
-## **🖥Frontend**
-
-
-
-<img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=E34f26"/> <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3&logoColor=1572b6"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=f7df1e"/> 
-
-<img src="https://img.shields.io/badge/Vue.js-3DDC84?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/NuxtJS-green?style=flat&logo=Nuxt.js&logoColor=000000"/> <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>
-
-scss + 
- <img src="https://img.shields.io/badge/Ionic-white?style=flat&logo=Ionic&logoColor=3880FF"/><img src="https://img.shields.io/badge/Ant Design-white?style=flat&logo=Ant Design&logoColor=0170fe"/><img src="https://seeklogo.com/images/E/element-ui-logo-A640D7E503-seeklogo.com.png" width="45" />element.eleme.io / tailwind /
- 
--->
-<!-- 임시주석
-## **🧑🏻‍💻Backend**
--->
-
-<!-- NO
-<img src="https://img.shields.io/badge/Go-white?style=flat&logo=Go&logoColor=blue" width="80"/>  
--->
-<!-- 임시주석
-<img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/><img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6db33f"/> <img src="https://img.shields.io/badge/RDBMS-MySQL-4479a1?style=flat&logo=MySQL&logoColor=4479a1"/> <img src="https://img.shields.io/badge/RDBMS-Oracle-f80000?style=flat&logo=Oracle&logoColor=f80000"/> <img src="https://img.shields.io/badge/RDBMS-SQLite3-003b57?style=flat&logo=MySQL&logoColor=003b57"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>  <img src="https://img.shields.io/badge/CentOS-white?style=flat&logo=CentOS&logoColor=262577"/> <img src="https://img.shields.io/badge/Linux-Ubuntu-e95420?style=flat&logo=Ubuntu&logoColor=e95420"/>
-
-
-
- <img src="https://img.shields.io/badge/Bitbucket-black?style=flat&logo=Bitbucket&logoColor=0052cc"/> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=f05032"/> 
--->
-<!-- --- -->
-
-<!--  ## **Social** -->
-
-  
-<!-- 임시주석
-  Click Badge [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c-owner)  [![MyInstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kingrlgns/) 뱃지 누르면 이동
--->
-  
-
-<!--  👇 click! web-blog -->
-
-[Tistory](https://iu-corner.tistory.com) 
-
-<!--  [Corner's Velog 개발일지🌱](https://velog.io/@corner3499) -->
-
-<!--  [corner-dev.com](https://corner-dev.com) - My Info Site -->
-
-
-
-<!--  os : <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-owner&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-owner&layout=compact&langs_count=10&exclude_repo=eventMoa,Algorithm,Project&hide=HTML,CSS,SCSS,Shell,Less,TSQL,PLSQL,XSLT,Ruby,)](https://github.com/c-owner/github-readme-stats)
-
----
-
-##### Friends
-
-<a href="https://github.com/digitalRepresentation" target="_blank" rel="noopener">
- <li class="mb-2 d-flex" data-test-selector="grid-mode-element">
-      <a href="https://github.com/digitalRepresentation" class="mr-2" data-hovercard-type="user" data-hovercard-url="/users/digitalRepresentation/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
-        <img src="https://avatars.githubusercontent.com/u/50911502?s=64&amp;v=4" alt="@digitalRepresentation" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
-      </a>
-      <span data-view-component="true" class="flex-self-center min-width-0 css-truncate css-truncate-overflow width-fit flex-auto">
-        <a href="https://github.com/digitalRepresentation" class="Link--primary no-underline flex-self-center">
-          <strong>digitalRepresentation</strong>
-          <span class="color-fg-muted">Jinyoung Kim</span>
-        </a>
-</span>    </li>
+<a href="https://github.com/digitalRepresentation">
+  <img src="https://avatars.githubusercontent.com/u/50911502?s=80&v=4" width="40" height="40" alt="digitalRepresentation" />
 </a>
-<!-- 
 
-  Recent Learning Projects Web. 
-  [🌐Corner Mall : Connect Link](https://corner-mall-client.vercel.app/)
+[digitalRepresentation · Jinyoung Kim](https://github.com/digitalRepresentation)
 
-  -->
+<div align="center">
 
-  <!--
+  <sub>Thanks for stopping by ✨</sub>
 
-    `<img src="https://img.shields.io/badge/라벨?style=flat-square&logo=node.js&logoColor=white"/>`
-
-  라벨은 보통 뱃지에 보여질 `이름-색상코드` 형식
-
-  이후 쿼리스트링 형식으로 ?style=flat-square (거의 고정) &logo와 &logoColor는 
-
-  [simpleicons.org](https://simpleicons.org)에서 확인한다.
-
-  
-
-  https://img.shields.io/badge/Node.js-339933<MESSAGE>-<COLOR> 
-
-  -->
-
-  <!--
-  **
-/c-owner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  Here are some ideas to get you started:
-
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-    -->
+</div>
