@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Corner 👋</h1>
+  <h1>Hi 👋</h1>
 
   <p>
     <strong>Developer · Builder · Curious learner</strong><br />
