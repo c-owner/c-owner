@@ -38,10 +38,7 @@
 ## Featured projects
 
 | Project | Description |
-| --- | --- |
-| [YouTube Video Player](https://github.com/c-owner/youtube-video-player) | Vue/Nuxt 기반 영상 플레이어 |
-| [HLS Player](https://github.com/c-owner/hls-player) | HLS 영상 처리 학습 프로젝트 |
-| [오늘은](https://github.com/c-owner/oneuleun_web) | 팀 프로젝트 · Backend/DevOps |
+
 
 ## GitHub activity
 
